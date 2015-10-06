@@ -10,7 +10,7 @@
             <h2>Welcome to the world of</h2>
         </div>
 	<div style="width:400px;height:400px;overflow:hidden;display:block;margin-left:auto;margin-right:auto;">
-            <img src="pb2.jpeg" width="400px" height="auto"/>
+            <img src="pb1.jpeg" width="400px" height="auto"/>
         </div>
     </body>
 </html>
