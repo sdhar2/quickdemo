@@ -10,7 +10,7 @@
             <h2>Welcome to the world of</h2>
         </div>
 	<div style="width:200px;height:200px;overflow:hidden;display:block;margin-left:auto;margin-right:auto;">
-            <img src="cboe1.jpeg" width="200px" height="auto"/>
+            <img src="Prudential.jpeg" width="200px" height="auto"/>
         </div>
     </body>
 </html>
