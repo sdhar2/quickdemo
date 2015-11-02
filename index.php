@@ -9,7 +9,7 @@
         <div style="display:block;margin-left:auto;margin-right:auto;text-align:center;">
             <h2>Welcome to</h2>
         </div>
-	<div style="width:200px;height:200px;overflow:hidden;display:block;margin-left:auto;margin-right:auto;">
+	<div style="width:400px;height:200px;overflow:hidden;display:block;margin-left:auto;margin-right:auto;">
             <img src="expo2.jpeg" width="400px" height="auto"/>
         </div>
     </body>
