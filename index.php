@@ -7,9 +7,9 @@
     </head>
     <body>
         <div style="display:block;margin-left:auto;margin-right:auto;text-align:center;">
-            <h2>Welcome folks to</h2>
+            <h2>Welcome to</h2>
         </div>
-	<div style="width:400px;height:200px;overflow:hidden;display:block;margin-left:auto;margin-right:auto;">
+	<div style="background-color:red;width:400px;height:200px;overflow:hidden;display:block;margin-left:auto;margin-right:auto;">
             <img src="DevNexus_logo_large.png" width="400px" height="auto"/>
         </div>
     </body>
