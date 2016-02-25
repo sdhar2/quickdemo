@@ -10,7 +10,7 @@
             <h2>Welcome to </h2>
         </div>
 	<div style="width:400px;height:200px;overflow:hidden;display:block;margin-left:auto;margin-right:auto;">
-            <img src="openshift.jpeg" width="400px" height="auto"/>
+            <img src="openshift.png" width="400px" height="auto"/>
         </div>
     </body>
 </html>
